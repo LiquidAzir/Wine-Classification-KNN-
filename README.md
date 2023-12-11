@@ -1,5 +1,5 @@
 # Wine-Classification-KNN-
-Simple KNN classification analysis
+**Simple KNN classification analysis**
 
 **Classification Task & Business Problem:**
 The task involved developing a KNN classifier to categorize wines into different quality classes. The business problem could be for a wine distributor needing to efficiently categorize their wine inventory for better management and targeted customer segmentation. This classification was based on wine properties like alcohol content, acidity, etc.
